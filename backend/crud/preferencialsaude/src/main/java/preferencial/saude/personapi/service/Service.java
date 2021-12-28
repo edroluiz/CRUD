@@ -62,7 +62,7 @@ public class Service {
         Teacher savedTeacher = teacherRepository.save(teacherToUpdate);
         return MessageResponseDTO
                 .builder()
-                .message("Created person with ID " + savedTeacher.getId())
+                .message("Created teacher with ID " + savedTeacher.getId())
                 .build();
     }
 
