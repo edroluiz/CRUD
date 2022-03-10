@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/crud.iml" filepath="$PROJECT_DIR$/.idea/crud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/preferencialsaude/personapi.iml" filepath="$PROJECT_DIR$/preferencialsaude/personapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/teacherapi/personapi.iml" filepath="$PROJECT_DIR$/teacherapi/personapi.iml" />
     </modules>
   </component>
 </project>
