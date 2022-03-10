@@ -6,7 +6,7 @@ As tecnologias utilizadas nesse projeto foram: `Java`, `javaScript`, `HTML`, `CS
 
 Esse sistema foi desenvolvido para fins de aprendizado. Com o intuito de aprender como funciona um CRUD (`Create`, `Read`, `Update`, `Delete`).
 
-## Confira como ficou Front-end:
+## Confira como ficou o Front-end:
 
 <img src="https://s7.gifyu.com/images/GRAVACAO-1.gif">
 
