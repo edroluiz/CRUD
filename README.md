@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Sistema de Cadastro de Disciplina! 📚
+## Bem-vindo(a) ao Cadastro de Disciplina! 📚
 
 As tecnologias utilizadas nesse projeto foram: `Java`, `javaScript`, `HTML`, `CSS`, `Vue.js` e `Spring Boot`. 
 
