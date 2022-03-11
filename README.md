@@ -1,6 +1,6 @@
 ## Bem-vindo(a) ao Cadastro de Disciplinas! 📚
 
-As tecnologias utilizadas nesse projeto foram: `Java`, `javaScript`, `HTML`, `CSS`, `Vue.js` e `Spring Boot`. 
+As tecnologias utilizadas nesse projeto foram: `Java`, `JavaScript`, `HTML`, `CSS`, `Vue.js` e `Spring Boot`. 
 
 ## O que me motivou a realizar esse projeto?
 
